@@ -7,7 +7,7 @@
     tools:context=".ActivityRegistroDatos">
 
     <Button
-        android:id="@+id/btnAddMaterias"
+        android:id="@+id/btnAddDatos"
         android:layout_width="128dp"
         android:layout_height="45dp"
         android:backgroundTint="#00C2CB"
@@ -69,7 +69,7 @@
         android:ems="10"
         android:gravity="start|top"
         android:hint="Ingresa la direccion"
-        android:inputType="textMultiLine"
+        android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
